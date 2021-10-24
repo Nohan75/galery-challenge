@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Nohan75](https://{github.com/Nohan75})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Twitter [@NohanMarie](https://{twitter.com/NohanMarie})

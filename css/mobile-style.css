@@ -1,0 +1,84 @@
+@media screen and (max-width: 375px) {
+
+    .head {
+        margin-top: 30px;
+    }
+    
+    #img-profil {
+        width: 101.76px;
+    }
+    #name {
+        margin-top: 11.24px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    #loc {
+        margin-top: 4px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    #card-stats {
+        margin-top: 12px;
+    }
+
+    .stat {
+        width: 78px;
+        height: 52px;
+    }
+    .stat-num {
+        font-size: 12px;
+        margin-top: 10px;
+        line-height: 15px;
+    }
+    .stat-info {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .container {
+        margin-top: 39px;
+    }
+    #img-galery {
+        grid-column-gap: 2px;
+        grid-row-gap: 2px;
+        margin: 0 12px;
+    }
+
+    #img-galery > img {
+        margin: 0;
+        filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.15));
+    }
+
+    #img-galery img:nth-child(1){
+        width: 109.32px;
+        height: 109.52px;
+    }
+    #img-galery img:nth-child(2){
+        width: 229.98px;
+        height: 109.52px;
+    }
+    #img-galery img:nth-child(3){
+        width: 229.25px;
+        height: 109.52px;
+    }
+    #img-galery img:nth-child(4){
+        width: 108.59px;
+        height: 230.76px;
+    }
+    #img-galery img:nth-child(5){
+        width: 109.32px;
+        height: 109.52px;
+    }
+    #img-galery img:nth-child(6){
+        width: 109.32px;
+        height: 109.52px;
+    }
+    footer {
+        margin-top: 44px;
+        margin-bottom: 24px;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 700;
+    }
+    
+}
